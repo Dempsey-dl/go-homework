@@ -1,0 +1,11 @@
+server:
+  address: ":8080"
+  mode: "debug"
+
+database:
+  dsn: "root:as5015520@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local"
+  dialect: "mysql"
+
+jwt:
+  secret: "123456"
+
