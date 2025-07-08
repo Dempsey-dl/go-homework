@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity_task1/RomanNum.sol": "RomanNum"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity_task1/RomanNum.sol": {
+			"keccak256": "0xca53c4ff6e6acb006f480620dab9c726de3c598bbc40c1b053526246cf2daea6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d837f9e59a35d4e1e6bb39b25446e6ec0d42daf8920a6ffa68b952f4af922e47",
+				"dweb:/ipfs/QmZcZXXz671dz3hwHmG6fwReZnjdj4wvSpstHeGyrqtyYq"
+			]
+		}
+	},
+	"version": 1
+}

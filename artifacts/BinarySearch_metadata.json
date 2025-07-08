@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "nums",
+						"type": "uint256[]"
+					},
+					{
+						"internalType": "uint256",
+						"name": "target",
+						"type": "uint256"
+					}
+				],
+				"name": "binary",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity_task1/BinarySearch.sol": "BinarySearch"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity_task1/BinarySearch.sol": {
+			"keccak256": "0xcceb220f01d4f83ab2361e1a1441b96d3799ac42d8222429ea8b9cdaf2d2fc7c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://33508a9c1607cb81c2376a8fae35849970dc15bd182f27b1f0ff8f2a3cdb4a2f",
+				"dweb:/ipfs/QmTKHzcsPRioxP4PZc4YPwyQ2wRHxL3h8s2Vvvvr3cFJst"
+			]
+		}
+	},
+	"version": 1
+}
