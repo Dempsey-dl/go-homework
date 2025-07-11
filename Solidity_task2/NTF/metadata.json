@@ -1,0 +1,15 @@
+{
+    "name": "My Awesome NFT",
+    "description": "This is my first NFT created for the task",
+    "image": "ipfs://bafkreifdhbho3qepmqatskqme2t7oedxl26ldu3grwvhyizgwx2xym24wm",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Edition",
+            "value": "First"
+        }
+    ]
+}
