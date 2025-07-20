@@ -1,0 +1,21 @@
+{
+    "proxyadminAddress": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+    "AuctionAddress": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+    "factoryAddress": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+    "abi": [
+        "constructor()",
+        "event AuctionEnded(address indexed,uint256)",
+        "event BidPlaced(address indexed,uint256,address,uint256)",
+        "event Initialized(uint8)",
+        "event OwnershipTransferred(address indexed,address indexed)",
+        "function Bid(uint256) payable",
+        "function Version() pure returns (string)",
+        "function auction() view returns (address,uint256,uint256,uint256,uint256,bool,address,address,uint256,address,uint256)",
+        "function endAuction()",
+        "function initialize(address,uint256,uint256,address,address,uint256,address)",
+        "function owner() view returns (address)",
+        "function priceFeet() view returns (address)",
+        "function renounceOwnership()",
+        "function transferOwnership(address)"
+    ]
+}
