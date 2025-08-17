@@ -13,8 +13,8 @@ module.exports = {
     Sepolia: {
       // url: `https://sepolia.infura.io/v3/${process.env.INFURA}`,
       // accounts:[process.env.KEY]
-      url: "https://sepolia.infura.io/v3/3cd6670397b442a3b321cdb81cb3074d",
-      accounts: ["cc4d1984ff43567efeb9edb41f9ee1658c6f1016e7c62a98eba7e9738a83057c"],
+      url: "https://sepolia.infura.io/v3/*",
+      accounts: ["*"],
       chainId: 11155111,
       gas: "auto",
       gasPrice: "auto"
